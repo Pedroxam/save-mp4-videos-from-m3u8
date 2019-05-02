@@ -7,4 +7,4 @@ Done !
 Just run on your server.
 
 note:
-ffmpeg required <b>just</b> for contac videos.
+ffmpeg required <b>just</b> for contac videos. othewise, you can just save mp4 files.
